@@ -1,0 +1,15 @@
+body {
+    background-color: wheat;
+}
+
+p{
+    font-size: 30px;
+    color: #F2720D;
+}
+
+.text{
+    border: 5px solid #FB442F;
+    width: 500px;
+    padding-left: 50px;
+    margin: 100px;
+}

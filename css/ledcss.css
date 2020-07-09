@@ -1,0 +1,47 @@
+body{
+    background-color: darkslateblue;
+}
+
+
+
+h2{
+    font-size: 50px;
+    font-family: 'Bangers';
+    text-align: center;
+}
+
+p{
+
+    font-size: 30px;
+    font-family: 'Indie Flower';
+    text-align: center;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50px;
+
+}
+
+.col-3 p{
+    font-family: 'Cedarville Cursive';
+}
+
+.nav{
+    background-color: orchid;
+    font-family: 'Bangers';
+}
+
+.nav a{
+    display: block;
+    background-color: indianred;
+    color: whitesmoke;
+}
+
+.nav a:hover{
+    background-color: salmon;
+    color: ivory;
+}

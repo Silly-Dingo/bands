@@ -1,0 +1,35 @@
+body{
+    background-color: yellow;
+}
+
+h1{
+    font-size: 45px;
+    color: red;
+    font-family: 'Galada', cursive;
+    text-align: center;
+    padding: 10px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+p{
+    font-family: 'Yellowtail';
+}
+
+.nav{
+    background-color: orchid;
+}
+
+.nav a{
+    display: block;
+    background-color: indianred;
+    color: whitesmoke;
+}
+
+.nav a:hover{
+    background-color: salmon;
+    color: ivory;
+}
